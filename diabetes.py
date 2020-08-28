@@ -12,7 +12,7 @@ for index,col in bmi.iterrows():
     empty.append(new)
 print(empty)
 
-
+hello this amy sahbsdlvbhsdbvlnj
 #     result=bmi.bmi.iloc[0,0]+bmi.iloc[1,1]
 #     empty.append(result)
 # print(empty)
